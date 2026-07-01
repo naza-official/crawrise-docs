@@ -1,9 +1,13 @@
-# Privacy Policy for CrawRise
+---
+title: Privacy Policy
+---
+
+# Privacy Policy for CrawGlance
 
 **Last updated: July 1, 2026**
 
-This Privacy Policy explains how the CrawRise mobile application ("CrawRise",
-"the app", "we", "us") handles information when you use it. CrawRise is a
+This Privacy Policy explains how the CrawGlance mobile application ("CrawGlance",
+"the app", "we", "us") handles information when you use it. CrawGlance is a
 personal vocabulary‑learning app. We have designed it to keep your learning
 data on your own device and in your own Google account, and to collect only
 minimal, non‑identifying usage information to improve the app.
@@ -16,7 +20,7 @@ If you have any questions, contact us at **nikitchyn.nazarii@gmail.com**.
 
 - Your vocabulary — the words, translations, and notes you add — stays **on your
   device**. If you choose to enable backup, it is stored in **your own Google
-  Drive**, in a private area only CrawRise can see. We never receive or store a
+  Drive**, in a private area only CrawGlance can see. We never receive or store a
   copy of it on our servers, and we cannot read it.
 - We collect **anonymous, aggregated usage analytics** and **crash reports** to
   understand which features are used and to fix bugs. These never contain your
@@ -27,7 +31,7 @@ If you have any questions, contact us at **nikitchyn.nazarii@gmail.com**.
 
 ---
 
-## Information CrawRise handles
+## Information CrawGlance handles
 
 ### 1. Vocabulary data you create (stored on your device / in your Google Drive)
 
@@ -36,7 +40,7 @@ stored locally on your device. This content is **not** transmitted to us.
 
 If you connect Google Drive backup (an optional feature you turn on yourself),
 this data is synced to a **hidden, app‑specific folder in your own Google Drive**
-(the Drive "appDataFolder"). Only the CrawRise app can access this folder; it is
+(the Drive "appDataFolder"). Only the CrawGlance app can access this folder; it is
 not visible in your normal Drive files, is not shared with other users, and is
 not accessible to us as the developer. Its purpose is to back up your data and
 keep it in sync across your own devices. You can disconnect backup at any time
@@ -45,11 +49,11 @@ and removing the app.
 
 To provide this feature we request a single, narrow Google permission —
 **Google Drive App Data** (`drive.appdata`) — which grants access **only** to
-that private CrawRise folder and to no other files in your Drive.
+that private CrawGlance folder and to no other files in your Drive.
 
 ### 2. Usage analytics (Google Analytics for Firebase)
 
-To understand how features are used and prioritize improvements, CrawRise
+To understand how features are used and prioritize improvements, CrawGlance
 collects anonymous, aggregated usage events, for example: adding or editing a
 word, starting a flashcard session, adding a home‑screen widget, tapping "next
 word", connecting Drive backup, or changing a setting such as the reminder
@@ -68,7 +72,7 @@ in the "Third‑party services" section below.
 
 ### 3. Crash and error reports (Firebase Crashlytics)
 
-If the app crashes or hits an unexpected error, CrawRise sends a diagnostic
+If the app crashes or hits an unexpected error, CrawGlance sends a diagnostic
 report so we can find and fix the problem. A report may include the error and
 stack trace, the device model and operating‑system version, and the app state
 at the time (such as recent non‑sensitive log messages). Crash reports do
@@ -96,7 +100,7 @@ rent it to anyone.
 
 ## Third‑party services
 
-CrawRise relies on the following Google services, which process data as
+CrawGlance relies on the following Google services, which process data as
 described above under Google's own privacy terms:
 
 - **Firebase Analytics (Google Analytics for Firebase)** — usage analytics.
@@ -107,7 +111,7 @@ described above under Google's own privacy terms:
 Your use of these Google services is also governed by the **Google Privacy
 Policy**: https://policies.google.com/privacy
 
-CrawRise's use of information received from Google APIs adheres to the
+CrawGlance's use of information received from Google APIs adheres to the
 [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy),
 including its Limited Use requirements.
 
@@ -130,7 +134,7 @@ To request deletion of data associated with the app, contact
 
 ## Children's privacy
 
-CrawRise is not directed to children under the age of 13 (or the equivalent
+CrawGlance is not directed to children under the age of 13 (or the equivalent
 minimum age in your jurisdiction), and we do not knowingly collect personal
 information from children. If you believe a child has provided us with such
 information, please contact us and we will take appropriate steps.
