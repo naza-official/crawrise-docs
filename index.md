@@ -27,6 +27,19 @@ description: A calm Android vocabulary app that resurfaces your saved words thro
   follow too.
 </p>
 
+<p align="center" style="margin: 28px 0;">
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSegzRy3MVqwW1YGcCryYFDAmefW5XArGdgIE7qJ-lOvEd5pgw/viewform?usp=header"
+     style="display: inline-block; padding: 14px 32px; background: #4f46e5; color: #ffffff;
+            font-weight: 700; font-size: 1.05rem; text-decoration: none; border-radius: 12px;
+            box-shadow: 0 4px 14px rgba(79,70,229,0.35);">
+    Get early access — become a tester or join the waitlist &nbsp;→
+  </a>
+</p>
+
+<p align="center" style="font-size: 0.9rem; color: #6b7280; margin-top: -8px;">
+  Access is granted within 24 hours of submitting the form. Testers get in first and help shape what's built next.
+</p>
+
 ---
 
 ## Why I built it
