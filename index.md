@@ -13,29 +13,52 @@ description: A calm Android vocabulary app that resurfaces your saved words thro
 <p align="center"><strong><em>Unlock your vocabulary — glance by glance.</em></strong></p>
 
 <p align="center" style="max-width: 680px; margin: 0 auto;">
-  Learn new words without ever sitting down to study. Save a word once and CrawGlance
-  quietly resurfaces it throughout your day — through a home-screen widget and a calm,
-  persistent notification — so vocabulary sticks through everyday glances.
+  The average person unlocks their phone around 110 times a day. CrawGlance turns those
+  moments into learning. Save a word once and it rides along on your home screen and in a
+  calm notification — so the words you want to learn become impossible to miss, without
+  ever sitting down to study.
 </p>
 
-<p align="center">📱 <strong>Now in internal testing on Google Play</strong></p>
+<p align="center"><strong>Now in internal testing on Google Play</strong></p>
+
+<p align="center" style="max-width: 680px; margin: 0 auto;">
+  Android comes first. A <strong>macOS</strong> version is planned next — and with enough
+  support from people who find CrawGlance useful, an <strong>iPhone</strong> version can
+  follow too.
+</p>
 
 ---
 
-## ✨ Features
+## Why I built it
 
-- **📖 Learning at a glance** — Add words to your collection and CrawGlance resurfaces them throughout your day. No flashcard grind, no scheduled sessions.
-- **🔔 Words in your notifications** — Your current word sits in a calm, persistent notification and refreshes as you use your phone. Tune the frequency in Settings.
-- **🏠 A word on your home screen** — Add the widget to glance at a word and tap through to the next — without even opening the app.
-- **✂️ Add from anywhere** — Select or share text in any app (browser, reader, chat) and tap **“Add to CrawGlance”** to save it instantly.
-- **🎴 Flashcard practice** — Quick tap-to-reveal review sessions when you want to test yourself.
-- **☁️ Private cross-device sync** — Optional Google Drive backup keeps your words and progress safe and in sync across your devices — stored in *your own* Drive, never on our servers.
-- **🎨 Made to fit you** — Light / dark / system themes and a choice of font families.
-- **🔒 Private by design** — Your vocabulary stays on your device (and your own Drive). Any diagnostics are anonymous and optional.
+I made CrawGlance for myself first. I wanted a tool that didn't rely on willpower or a
+daily study streak — because the hardest part of learning is never the learning, it's
+finding the energy to start, again and again.
+
+So instead of asking you to carve out time, CrawGlance builds it into where your attention
+already goes. With ~110 unlocks a day, your phone is the most reliable surface you have.
+Put a word on it and repetition happens on its own — learning becomes the inevitable
+side-effect of using your phone, not another task competing for your motivation.
+
+It won't make you sit down and study. It makes an environment where learning and small
+wins happen anyway — so the emotional cost of "getting started" drops close to zero.
 
 ---
 
-## 📸 Screenshots
+## Features
+
+- **Learning at a glance** — Add words to your collection and CrawGlance resurfaces them throughout your day. No flashcard grind, no scheduled sessions.
+- **Words in your notifications** — Your current word sits in a calm, persistent notification and refreshes as you use your phone. Tune the frequency in Settings.
+- **A word on your home screen** — Add the widget to glance at a word and tap through to the next — without even opening the app.
+- **Add from anywhere** — Select or share text in any app (browser, reader, chat) and tap **“Add to CrawGlance”** to save it instantly.
+- **Flashcard practice** — Quick tap-to-reveal review sessions when you want to test yourself.
+- **Private cross-device sync** — Optional Google Drive backup keeps your words and progress safe and in sync across your devices — stored in *your own* Drive, never on our servers.
+- **Made to fit you** — Light / dark / system themes and a choice of font families.
+- **Private by design** — Your vocabulary stays on your device (and your own Drive). Any diagnostics are anonymous and optional.
+
+---
+
+## Screenshots
 
 <table align="center">
   <tr>
@@ -70,7 +93,7 @@ description: A calm Android vocabulary app that resurfaces your saved words thro
 
 ---
 
-## 🔒 Privacy
+## Privacy
 
 Your vocabulary never leaves your device except to your own Google Drive, and CrawGlance
 has no account and no server that stores your data. Read the full
@@ -78,7 +101,7 @@ has no account and no server that stores your data. Read the full
 
 ---
 
-## 👤 Author
+## Author
 
 <p align="center">
   <img src="icon.png" alt="CrawGlance icon" width="72" style="border-radius: 16px;" /><br />
