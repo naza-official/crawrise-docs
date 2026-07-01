@@ -8,7 +8,7 @@ personal vocabulary‑learning app. We have designed it to keep your learning
 data on your own device and in your own Google account, and to collect only
 minimal, non‑identifying usage information to improve the app.
 
-If you have any questions, contact us at **niknaz1902@gmail.com**.
+If you have any questions, contact us at **nikitchyn.nazarii@gmail.com**.
 
 ---
 
@@ -124,7 +124,7 @@ including its Limited Use requirements.
   to their standard retention periods and used only in aggregate.
 
 To request deletion of data associated with the app, contact
-**niknaz1902@gmail.com**.
+**nikitchyn.nazarii@gmail.com**.
 
 ---
 
@@ -161,4 +161,4 @@ If you have questions or requests regarding this Privacy Policy or your data,
 contact:
 
 **Nazarii Nikitchyn**
-Email: **niknaz1902@gmail.com**
+Email: **nikitchyn.nazarii@gmail.com**
